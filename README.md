@@ -7,3 +7,4 @@ npm install
 npm install -g gulp
 gulp
 ```
+open [http://localhost:8000/](http://localhost:8000/)
